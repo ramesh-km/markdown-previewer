@@ -1,0 +1,26 @@
+.panels {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 1rem;
+}
+
+textarea {
+  all: unset;
+  padding: 1rem;
+  resize: inherit;
+  font-family: 'Source Code Pro', monospace;
+  font-size: inherit;
+  background-color: #eee;
+}
+
+.panel {
+  border: 1px solid black;
+  margin: 2rem;
+  padding: 2rem;
+  font-size: 1rem;
+}
+
+.app-title {
+  text-align: center;
+  margin-bottom: 0px;
+}
