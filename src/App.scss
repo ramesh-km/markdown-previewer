@@ -40,6 +40,11 @@ textarea {
 
 @media screen and (max-width: 800px) {
   .panel {
-    font-size: 1.5vw;
+    font-size: 1.7vw;
+    margin: 0px;
+  }
+
+  .panels {
+    column-gap: 0px;
   }
 }
