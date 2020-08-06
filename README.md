@@ -2,7 +2,7 @@
 
 A [react](https://reactjs.org/) app for previewing the markdown text.
 
-See the app live at https://markdown-pre-viewer.netlify.app/
+See this app live at https://markdown-pre-viewer.netlify.app/
 
 Markdown is parsed using [Remarkable](https://github.com/jonschlinkert/remarkable).
 
