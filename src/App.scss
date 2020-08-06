@@ -17,7 +17,6 @@ textarea {
   border: 1px solid black;
   margin: 2rem;
   padding: 2rem;
-  font-size: 1rem;
 }
 
 .preview-panel {
@@ -37,4 +36,10 @@ textarea {
 .app-title {
   text-align: center;
   margin-bottom: 0px;
+}
+
+@media screen and (max-width: 800px) {
+  .panel {
+    font-size: 1.5vw;
+  }
 }
