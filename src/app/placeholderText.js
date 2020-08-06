@@ -1,5 +1,9 @@
 const PLACEHOLDER_TEXT = 
-`# Welcome to my React Markdown Previewer!
+`# Welcome to Markdown Previewer!
+
+# Here you can type or paste your markdown to see its preview.
+
+---
 
 ## This is a sub-heading...
 ### And here's some other cool stuff:
